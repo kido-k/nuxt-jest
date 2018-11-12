@@ -1,5 +1,5 @@
 const Vuex = require('vuex')
-const index = require('../../app/store')
+const index = require('~/store')
 const { createLocalVue } = require('@vue/test-utils')
 const cloneDeep = require('lodash.clonedeep')
 
